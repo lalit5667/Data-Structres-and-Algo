@@ -1,0 +1,12 @@
+
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾Žÿÿÿÿÿ8€½¸¶æ/
+L
+java:S1197"*Move the array designators [] to the type.(ùï¾Žÿÿÿÿÿ8”¿¬¶æ/
+]	java:S125"<This block of commented-out lines of code should be removed.(§øÇ¢þÿÿÿÿ8Óé¸¶æ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8š£³¶æ/
+u
+java:S12105"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(õ¼ª8Ô¿¬¶æ/
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§†¤¯úÿÿÿÿ8í¿¬¶æ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‘”Óÿÿÿÿÿ8î¿¬¶æ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öäÂ–ÿÿÿÿÿ8î¿¬¶æ/

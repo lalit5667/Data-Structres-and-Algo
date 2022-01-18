@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ù»çøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Éü¥ ûÿÿÿÿ8–ˆ—ıØ/
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.(à€¼úÿÿÿÿ8ëÈıØ/
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ùÇ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( çÂË

@@ -1,0 +1,18 @@
+
+r
+java:S1149v"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8ÓÌ»ŸÚ/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(‰íÖ¨8¨Ø½ŸÚ/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÁØÅŸÚ/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(‰íÖ¨8Ä˜ÆŸÚ/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8òËÆŸÚ/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(‰íÖ¨8ÖßÇŸÚ/
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8×ßÇŸÚ/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(‰íÖ¨8ÜßÇŸÚ/
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8İßÇŸÚ/
+t
+java:S3776n"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷û÷Ùûÿÿÿÿ8àÌ»ŸÚ/
+r	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¤ã½üÿÿÿÿ8é¿ÄŸÚ/
+r	java:S117L"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Èàÿÿÿÿÿ8¹Ø½ŸÚ/
+r	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ğ€Ôşÿÿÿÿ8òßÇŸÚ/
+r	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÆÍ×ûÿÿÿÿ8òßÇŸÚ/
+m	java:S117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ ¹8Ç¡ÇŸÚ/

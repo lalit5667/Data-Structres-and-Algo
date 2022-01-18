@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©£÷ñûÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÅŽàÐ8œé†ù×/
+V	java:S125S"<This block of commented-out lines of code should be removed.(æ¥ÍÁÿÿÿÿÿ
+W
+java:S1126„"AReplace this if-then-else statement by a single return statement.(í­s
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¤é†ù×/
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18Ö³‚ù×/
+I
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8×³‚ù×/

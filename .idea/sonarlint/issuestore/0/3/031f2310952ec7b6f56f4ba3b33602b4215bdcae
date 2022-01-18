@@ -1,0 +1,9 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ø¸Õúÿÿÿÿ
+c	java:S116"NRename this field "MOD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ŠªĞ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú™Ëıÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ßøƒşÿÿÿÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£›ÿ
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£›ÿ

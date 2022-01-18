@@ -1,0 +1,18 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "suffixTrie".(˜øˆœúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Œ¢¿Äÿÿÿÿÿ
+J
+java:S1481"/Remove this unused "suffixTrie" local variable.(˜øˆœúÿÿÿÿ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(ëÕÆ§
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¾¨şéå/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¿¨şéå/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¿¨şéå/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8À¨şéå/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µìüş
+f	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€§

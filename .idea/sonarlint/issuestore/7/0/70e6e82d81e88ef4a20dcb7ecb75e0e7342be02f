@@ -1,0 +1,18 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï‘’þÿÿÿÿÿ
+:
+java:S1659&"Declare "q" on a separate line.(Ç„™·ûÿÿÿÿ
+5
+java:S1659'"Declare "y" on a separate line.(äÛÁ”
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(Ê˜Ó
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(èìE
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(ÃŸÛ 
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¹ÁàÚ
+p
+java:S2234V"ZParameters to isMirror have the same names but not the same order as the method arguments.(ííñÖ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥Å¨
+e	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©‰è
